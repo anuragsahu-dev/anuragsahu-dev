@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Server Animation" width="150">
-  <img src="https://media.giphy.com/media/xUOxfjsWJ1f8WZYh6E/giphy.gif" alt="Database Animation" width="150">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="API Flow Animation" width="150">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Game Animation" width="150">
 </p>
 
 ## 🌐 Socials:
