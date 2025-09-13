@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragsahu-dev&color=0e75b6&style=flat-square" alt="Profile views">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="150">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Game Animation" width="150">
-  <img src="https://img.shields.io/badge/Always-Learning-FF00FF?style=for-the-badge&logo=read-the-docs" alt="Learning Badge">
+  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="Server Animation" width="150">
 </p>
 
 ## 🌐 Socials:
