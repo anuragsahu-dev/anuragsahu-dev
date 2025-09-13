@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Anurag Sahu</span></h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">🚀 Passionate Backend Developer | Node.js & MERN Stack Enthusiast | India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Node.js%20Backend%20Developer;MERN%20Stack%20Developer;Always%20learning%20new%20tech!;Open%20to%20collaboration%20on%20cool%20projects✨&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Node.js%20Backend%20Developer;MERN%20Stack%20Developer;Open%20to%20collaboration;Learning%20and%20building%20everyday!&center=true&width=500&height=45" alt="Typing SVG">
 </p>
 
 <p align="center">
-  🚀 I love building real-world applications and always open to collaborate on exciting projects.  
-  <br/>Let's connect and build something amazing together!
+  💻 I specialize in building **scalable backend systems**, REST APIs, and real-world web applications.  
+  🛠️ Tech Stack: <strong>Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, CI/CD</strong>  
+  🌱 Currently exploring **advanced backend architectures, cloud deployments, and performance optimization**.  
+  🤝 Always open to <strong>collaborations, mentorship, and interesting projects</strong>.
 </p>
+
+<p align="center">
+  📫 Let's connect: <a href="mailto:your-email@example.com">Email Me</a> | <a href="https://linkedin.com/in/anuragsahu-dev">LinkedIn</a> | <a href="https://github.com/anuragsahu-dev">GitHub</a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsahu8382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragsahu.dev@gmail.com) 
