@@ -16,6 +16,12 @@
   🤝 Always open to <span style="color:#00FFFF; font-weight:bold;">collaborating on challenging and innovative projects</span>.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragsahu-dev&color=0e75b6&style=flat-square" alt="Profile views">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Game Animation" width="150">
+  <img src="https://img.shields.io/badge/Always-Learning-FF00FF?style=for-the-badge&logo=read-the-docs" alt="Learning Badge">
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsahu8382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragsahu.dev@gmail.com) 
 
