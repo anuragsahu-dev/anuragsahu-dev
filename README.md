@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Anurag Sahu</span></h1>
-<h3 align="center">🚀 Passionate Backend Developer | Node.js & MERN Stack Enthusiast | India</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="background: linear-gradient(90deg,#00FFFF,#FF00FF); -webkit-background-clip: text; color: transparent;">Anurag Sahu</span>
+</h1>
+
+<h3 align="center">
+  🚀 Passionate Backend Developer from India
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Node.js%20Backend%20Developer;MERN%20Stack%20Developer;Open%20to%20collaboration;Learning%20and%20building%20everyday!&center=true&width=500&height=45" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20Scalable%20Backend%20Systems;REST%20APIs%20%26%20Real-World%20Applications;Always%20Learning%20%26%20Improving!&center=true&width=500&height=45" alt="Typing SVG">
 </p>
 
 <p align="center">
-  💻 I specialize in building **scalable backend systems**, REST APIs, and real-world web applications.  
-  🛠️ Tech Stack: <strong>Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, CI/CD</strong>  
-  🌱 Currently exploring **advanced backend architectures, cloud deployments, and performance optimization**.  
-  🤝 Always open to <strong>collaborations, mentorship, and interesting projects</strong>.
+  💻 I specialize in designing <span style="color:#00FFFF; font-weight:bold;">robust, efficient, and scalable backend systems</span>.<br/>
+  🌱 Currently exploring <span style="color:#FF00FF; font-weight:bold;">advanced backend architectures, performance optimization, and cloud deployments</span>.<br/>
+  🤝 Always open to <span style="color:#00FFFF; font-weight:bold;">collaborating on challenging and innovative projects</span>.
 </p>
 
 <p align="center">
-  📫 Let's connect: <a href="mailto:your-email@example.com">Email Me</a> | <a href="https://linkedin.com/in/anuragsahu-dev">LinkedIn</a> | <a href="https://github.com/anuragsahu-dev">GitHub</a>
+  <img src="https://komarev.com/ghpvc/?username=anuragsahu-dev&color=0e75b6&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/Backend-Developer-00FFFF?style=for-the-badge&logo=ghost" alt="Backend Badge">
+  <img src="https://img.shields.io/badge/Always-Learning-FF00FF?style=for-the-badge&logo=read-the-docs" alt="Learning Badge">
 </p>
+
 
 
 ## 🌐 Socials:
