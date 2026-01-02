@@ -67,12 +67,18 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsahu-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahu-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+  <a href="https://github.com/anuragsahu-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuragsahu-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/anuragsahu-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahu-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" height="170"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anuragsahu-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/anuragsahu-dev">
+    <img src="https://streak-stats.demolab.com/?user=anuragsahu-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
