@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/anuragsahu-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsahu-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=anuragsahu-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
