@@ -12,6 +12,10 @@ on:
     branches:
       - main
 
+# Grant write permissions to GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
