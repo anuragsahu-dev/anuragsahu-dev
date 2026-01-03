@@ -84,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anuragsahu-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7&rank=-?" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anuragsahu-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </p>
 
 ## ✍️ Dev Quote
