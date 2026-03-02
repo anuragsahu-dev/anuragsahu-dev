@@ -105,8 +105,9 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anuragsahu-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+  <img src="https://github-repository-contribution-stat-iota.vercel.app/api?username=anuragsahu-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </p>
+
 
 <!-- Footer -->
 <p align="center">
