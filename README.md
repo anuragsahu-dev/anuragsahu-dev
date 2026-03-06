@@ -44,7 +44,7 @@ Production-ready project management backend with restricted account creation, mu
 
 Production-style Node.js deployment on AWS EC2 with multi-stage Docker builds, Nginx reverse proxy (SSL + rate limiting), 3-workflow CI/CD pipeline, and observability via Winston → Grafana Alloy → Grafana Cloud Loki.
 
-**Tech:** `Node.js` `Express` `Docker` `Nginx` `Certbot` `Redis` `GitHub Actions` `AWS EC2` `Grafana Loki` `Winston` `Husky`
+**Tech:** `Node.js` `TypeScript` `Express` `Nginx` `Certbot` `Redis` `GitHub Actions` `AWS EC2` `Grafana Loki` `Winston` `Husky`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragsahu-dev/production-deployment-demo)
 
@@ -52,9 +52,9 @@ Production-style Node.js deployment on AWS EC2 with multi-stage Docker builds, N
 
 ### ⭐ 4. NestJS Microservices (gRPC + RabbitMQ)
 
-Microservices architecture demo with an API Gateway, Order Service, Payment Service (gRPC), and Notification Service (RabbitMQ consumer) — demonstrating inter-service communication and event-driven patterns.
+Microservices architecture demo with an API Gateway, Order Service, Payment Service (gRPC), and Notification Service (RabbitMQ consumer) — demonstrating inter-service communication and event-driven patterns with mocked data persistence.
 
-**Tech:** `NestJS` `TypeScript` `gRPC` `RabbitMQ` `PostgreSQL` `Prisma` `Docker`
+**Tech:** `NestJS` `TypeScript` `gRPC` `RabbitMQ`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragsahu-dev/nestjs-microservices-grpc-rabbitmq-demo)
 
